@@ -1,5 +1,7 @@
 # simple-esm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/simple-esm.svg)](https://greenkeeper.io/)
+
 A minimal example of how Node.js ❤️ ESM.
 
 ## esm.js
